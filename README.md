@@ -13,7 +13,7 @@ Hello, my name is Sahil Soni and I am an experienced Full-Stack Web Application 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsahilsoni&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=yeahsahil)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=yeahsahil)](https://twitter.com/yeahSahil/status/1639810708404686848)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
