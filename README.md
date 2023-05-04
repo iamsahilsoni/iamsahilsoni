@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello, my name is Sahil Soni and I am an experienced Full-Stack Web Application Engineer with 1+ year of experience in web development. I have a strong passion for building reliable and efficient web applications that provide a seamless user experience. As a current Masters student at the University of Windsor, I have had the opportunity to work on numerous academic and industry projects that have challenged me to consistently learn and grow as a professional.<br><br>During my free time, I enjoy engaging in two of my passions - playing chess and staying fit by going to the gym. As a dedicated Web Apps Engineer, I am always seeking ways to enhance my skills and expertise in building high-quality Web applications. I am eager to apply my knowledge and experience to help clients fulfill their Web Application needs, and I am always ready to take on new challenges. Thank you for visiting my website, and I am excited to connect with you soon!<br><br>
 
+# Web Portfolio:
+https://sahilsoni.me/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsahilsoni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lialh4) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yeahsahil) 
